@@ -39,8 +39,10 @@ I'm a hard-working full-stack Web, Web3 and Crypto Developer, currently pursuing
 - What languages do you speak?
   - I prefer English, but I also speak Dutch, French and German.
 
+Feel free to reach out if you want to collaborate, and build the future of the decentralized web together!
+
 ---
 
 > “Decentralization is not a technology, it is a philosophy. The blockchain is only the beginning.” – Vitalik Buterin
 
-Feel free to reach out if you want to collaborate, and build the future of the decentralized web together!
+---
