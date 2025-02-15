@@ -21,7 +21,6 @@ I'm a hard-working full-stack Web, Web3 and Crypto Developer, currently pursuing
 ## 🌐 Let's Connect
 - **Discord:** [pelican8_](https://discordapp.com/users/1339037577243525203)
 - **Twitter/X:** [@Pelican8_](https://x.com/Pelican8_)
-- **Website/Portfolio:** [Currently in the works](#)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pelican8&show_icons=true&hide_title=true&count_private=true&hide=prs)
